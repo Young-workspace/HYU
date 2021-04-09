@@ -1,4 +1,4 @@
-// 2017030155 이채영
+
 #include<stdio.h>
 #include<iostream>
 using namespace std;
