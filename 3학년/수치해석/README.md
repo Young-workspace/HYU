@@ -1,6 +1,9 @@
 # 수치해석
 > MAT3008
 
+## 환경
+> C언어와 NR을 이용
+
 
 ## 과제
 1. "float"와 "double"의 machine accuracy 측정
@@ -11,3 +14,4 @@
 6. 11x11 symmetric matrix를 radom number generator로 생성
 7. Resampling image
 8. Nonlinear Data Fitting
+9. Linear Data Fitting
