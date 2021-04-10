@@ -15,6 +15,6 @@
 > obj file을 load 한다  
 > 3개 이상의 light source 구현
 
-
-### 예시
-
+  
+### 결과 예시  
+![그림1](https://user-images.githubusercontent.com/82203285/114260337-2328de80-9a0f-11eb-8f25-88f550a45ba7.JPG)
