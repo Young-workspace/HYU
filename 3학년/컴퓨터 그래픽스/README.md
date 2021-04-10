@@ -3,5 +3,5 @@
 
 ## 과제 
 1. Basic OpenGl viewer 구현
-> > Drawing a hierarchical model  
+> Drawing a hierarchical model  
 2. OBj viewer  
