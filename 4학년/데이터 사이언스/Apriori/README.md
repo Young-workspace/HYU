@@ -9,8 +9,8 @@
 
 ## 실행 방법
 > **파일명: apriori.py**  
-> apirori.py minimum_support input_file output_file  
-> 예: apirori.py 5 input.txt output.txt  
+> python apirori.py minimum_support input_file output_file  
+> 예: python apirori.py 5 input.txt output.txt  
 
 ### input file 형식
 > item_id \t item_id \n
