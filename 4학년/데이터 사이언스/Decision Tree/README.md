@@ -11,8 +11,8 @@
 
 ## 실행 방법
 > **파일명: dt.py**  
-> 실행 명령어: dt.py training_file test_file output_file  
-> > 예) dt.py dt_train.txt dt_test.txt dt_result.txt
+> 실행 명령어: python dt.py training_file test_file output_file  
+> > 예) python dt.py dt_train.txt dt_test.txt dt_result.txt
 
 
 ## 데이터 셋
