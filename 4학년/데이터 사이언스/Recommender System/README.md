@@ -18,6 +18,10 @@
 > > 예) python recommender.py u1.base u1.test  
 > > 
 
+## 확인 방법
+> PA4.exe와 모든 파일들을 같은 폴더에 위치 시키면 정확도가 나온다
+> > RMSE 사용해서 
+
 ### train data 형식
 > [u_id]\t [item_id]\t [rating]\t [time_stamp]\n  
 > 이미 평가된 item 들이다  
